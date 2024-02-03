@@ -1,0 +1,29 @@
+table
+{
+    float: center;
+    width: 60%;
+    background-color:sienna;
+    text-align: center;
+    margin:0 auto;
+    padding: 10px;
+}
+
+img
+{
+    float: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+body
+{
+    text-align: center;
+    background-color:burlywood;
+    background-size: cover;
+    font-family: cursive;
+}
+
+a
+{
+    color:black;
+}
